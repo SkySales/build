@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f99b803a.css",
+    "main.js": "/static/js/main.f35ef685.js",
+    "static/media/japan.jpg": "/static/media/japan.18b4a33b9f73c896d68d.jpg",
+    "static/media/morning.jpg": "/static/media/morning.83aaa3314378f9f7d8dc.jpg",
+    "static/media/educ.png": "/static/media/educ.f0c66c1b3ae5fe60ccaa.png",
+    "static/media/coding.jpg": "/static/media/coding.3983dc419608a323c181.jpg",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.f99b803a.css.map": "/static/css/main.f99b803a.css.map",
+    "main.f35ef685.js.map": "/static/js/main.f35ef685.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f99b803a.css",
+    "static/js/main.f35ef685.js"
+  ]
+}
